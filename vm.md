@@ -1,0 +1,15 @@
+# Nastavení virtuálního stroje pro sítě
+
+- ![](img/pos-vm_010_novy-stroj.png)
+- ![](img/pos-vm_020_expertni-rezim.png)
+- ![](img/pos-vm_030_nastaveni-stroje.png)
+- ![](img/pos-vm_040_pridat-disk.png)
+- ![](img/pos-vm_050_pridat-disk-ktery.png)
+- ![](img/pos-vm_055_kopie-vzoroveho.png)
+- ![](img/pos-vm_060_pridat-disk-vybrat.png)
+- ![](img/pos-vm_070_potvrd.png)
+- ![](img/pos-vm_080_sitovy-most.png)
+- ![](img/pos-vm_090_volitelne-procesor.png)
+- ![](img/pos-vm_100_spustit.png)
+- ![](img/pos-vm_110_sitovy-most-dodatecne.png)
+- ![](img/pos-vm_120_fullscreen.png)
