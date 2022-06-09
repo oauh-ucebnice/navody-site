@@ -11,7 +11,11 @@
     ![Přiřaď virtuálnímu stroji virtuální disk](img/pos-vm_040_pridat-disk.png)
     <br />
     ![](img/pos-vm_050_pridat-disk-ktery.png)
-1. Pokud na tvém počítači chybí soubor `D:\win10lab.vdi`, nebo je poškozený, zkopíruj si ho ze serveru `\\dilna`:<br />  ![Stažení vzorového stroje](img/pos-vm_055_kopie-vzoroveho.png)
+1. Pokud na tvém počítači chybí soubor `D:\win10lab.vdi`, nebo je poškozený, zkopíruj si ho ze serveru `\\dilna`:
+    <br />
+    <br />**POZOR!!! Nepřipojuj soubor ze serveru, zkopíruj si ho na `D:`!!!**
+    <br />
+    <br />  ![Stažení vzorového stroje](img/pos-vm_055_kopie-vzoroveho.png)
 1. Potvrď připojení virtuálního disku:<br /> ![Potvrzení volby virtuálního disku](img/pos-vm_060_pridat-disk-vybrat.png)
 1. Vytvoř stroj:<br /> ![Potvrzení](img/pos-vm_070_potvrd.png)
 1. Nastavení síťového mostu<br />
