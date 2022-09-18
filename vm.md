@@ -1,5 +1,31 @@
 # Vytvoření nového virtuálního stroje pro předmět POS
 
+<!-- 
+Kontroluj, že je tu vše...
+Složka pro vytvoření stroje ve VirtualBoxu
+Spusťte VirtualBox
+Soubor→ Předvolby→ Obecné
+Výchozí složka pro virtuální počítače
+D:\vms\vase-prijmeni
+Vytvořit vlastní kopii virt. pevného disku
+Originály: D:\base
+Zkopírujte: D:\base\Win10lab.vhd (Původní image ponechte pro další žáky!!!)
+Vaše kopie bude: D:\Win10lab-prijmeni.vhd
+Vytvořte ve VirtualBoxu nový virtuální stroj
+(Pokud ještě nemáte... ;) )
+Název: Win10Lab
+OS: Windows 10 (64 bit)
+Paměť: 4096 MB
+Aspoň 2048 MB ;)
+Méně než 50% celkové paměti.
+Připojit existující pevný disk:
+Vyberte svou kopii souboru s virtuálním pevným diskem, kterou jste si vytvořili v rámci bodu 2.
+Nastavit Síťový most
+VM → Nastavení... → Síť
+Karta 1 → Připojena k:
+Síťový most
+-->
+
 1. Vytvoř nový virtuální stroj&nbsp;<br />  ![Klikni na „Nový stroj“](img/pos-vm_010_novy-stroj.png)
 1. Přepnutí do _expertního režimu_ &nbsp;<br />  ![Přepnutí do expertního režimu](img/pos-vm_020_expertni-rezim.png)
 1. Zadej nastavení virtuálního stroje: &nbsp;<br />  ![Nastavení stroje](img/pos-vm_030_nastaveni-stroje.png)
